@@ -1,5 +1,5 @@
 # dbda-atividades
 
-## Nome: Fernanda Cavaçane dos Santos Bezerra
+**Nome completo:** <Fernanda Cavaçane dos Santos Bezerra>
 
-## Redes 2
+Repositório de entrega das atividades avaliativas de Banco de Dados.
